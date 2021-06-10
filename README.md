@@ -1,3 +1,3 @@
 # graph-ql
 
-sample Hello world program with express.js and graphQl
+Introduction to graph-ql with express.js and react.js
