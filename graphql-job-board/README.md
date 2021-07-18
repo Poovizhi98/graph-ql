@@ -1,3 +1,5 @@
 # GraphQL Job Board
 
-Sample application used in the GraphQL by Example course.
+- Basics of graphQl with Apollo Server and Configuration
+- A Sample Job Board project data fetched using qraphql queries 
+
